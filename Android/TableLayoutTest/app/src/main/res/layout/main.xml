@@ -46,7 +46,7 @@
 <Button android:id="@+id/ok5" 
 	android:layout_width="wrap_content"
 	android:layout_height="wrap_content"
-	android:text=" 独自一行的按钮 "
+	android:text=" 独自一行的按钮"
 	/>
 <!--定义一个表格行-->
 <TableRow>
