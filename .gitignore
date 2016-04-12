@@ -5,8 +5,6 @@ settings.gradle
 TextViewTest.iml
 .gradle
 gradle
-build.gradle
 gradlew
 gradlew.bat
 app/build
-*.gradle
